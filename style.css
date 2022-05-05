@@ -1,0 +1,66 @@
+.hap{
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+font-family: 'IBM Plex Sans KR', sans-serif;
+    font-size: 30px;
+    background-color:rgb(241, 239, 251);
+    font-weight: 900;
+    text-align:right;
+    
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    -webkit-transition: all ease-out .5s;
+    -moz-transition: all ease-out .5s;
+    -o-transition: all ease-out .5s;
+    transition: all ease-out .5s;
+    background: rgb(241, 239, 251);
+    
+  }
+  .ban{
+    background-image: linear-gradient(rgb(241, 239, 251), white);
+  }
+
+
+.tab{
+    text-decoration: none;
+    font-size: large;
+
+    
+}
+.bod{
+    background-color:rgb(241, 239, 251);
+}
+.tex{
+    font-size: 16px;
+    font-weight: 600;
+}
+.heading{
+    font-size:45px;
+    font-weight: 600;
+}
+.bat{
+    font-size: 20px;
+}
+.bowl{
+    background-color: rgb(196, 251, 233);
+    
+    
+}
+.box{
+    background-color: rgb(91, 91, 232);
+}
+.cap{
+    font-size:15px;
+    font-weight: 700;
+    
+}
+.bn{
+    font-size: 20px;
+}
+.bot{
+    font-size: 32px;
+}
